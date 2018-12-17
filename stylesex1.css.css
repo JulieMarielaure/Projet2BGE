@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang ="fr" >
+	<head>
+	  <meta charset="UTF-8">
+	  <meta name="description" content="La description de la page." />
+		<title>Premier essai</title>
+	</head>
+		<body>
+		<! -- je fais un commentaire qui ne va pas se voir -->
+			
+			<center><h1>Voici un titre</h1></center>
+
+			<center><h2>Maintenant un sous-titre</h2></center>
+		
+			<center><h3>Et on peut continuer</h3></center>
+
+			<center><h4>La profondeur est limité</h4></center>
+
+			<center><h5>Pénultième</h5></center>
+			
+			<center><p>Un petit texte justifié à droite pour introduire cette partie, elle le mérite bien, et puis il serait dommage de se priver.</p></center>
+
+			<center><h6>Un vraiment petit paragraphe</h6></center>
+			
+			<center> <p> Et un titre est un changement de paragraphe implicite.</p> </center>
+
+					<ul>
+						<li><b>Le texte peut-être mis en gras</b></li>
+						<li><em>Les italiques mettent le txt en valeur</em>/li>
+						<li></li> 
+					
+
+				<h3>6/ Quelle balise contient les informations générales de la page ? </h3> <p>Balise Doctype</p> 
+
+				<h3>7/Quelle balise contient le code html visible de la page web ? </h3> <p>Balise Html </p> 
+
+				<aside><h3>8/ Quelles sont les règles à respecter lors de l'écriture du code d'une page web ?</h3> 
+
+					<p>La structure <hr>
+					    <ul>
+						<li>l’indentation</li>
+					    <li>les différences entre variables et globales
+					    <li>les noms de fonction
+					    <li>les accolades
+					  	<li>les espaces blancs
+					    <li>respecter les conventions d’écriture
+					    <li>Les méthodes locales
+					    <li>les méthodes externes
+					    <li>les répertoires
+       					</ul><hr>
+					</p></aside>
+
+<header><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg" height="150"" widht="200""></header> 
+
+</body>
